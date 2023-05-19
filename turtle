@@ -1,0 +1,5 @@
+from turtle import *
+turtle = Turtle()
+screen = Screen()
+for i in range(36)
+turtle.forward(40)
